@@ -1,0 +1,16 @@
+{
+  "name": "mumble-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "GNU",
+  "dependencies": {
+    "mumble": "^0.3.15",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
